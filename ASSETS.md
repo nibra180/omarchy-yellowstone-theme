@@ -2,7 +2,7 @@
 
 The following files were created by nibra180 in 2026:
 
-- `backgrounds/00-yellowstone-patch-6880x2880.png`
+- `backgrounds/yellowstone-patch-6880x2880.png`
 - `backgrounds/yellowstone-6880x2880.png`
 - `assets/*.jpg` (README-sized wallpaper previews)
 - `preview.png`

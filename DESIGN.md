@@ -27,7 +27,7 @@ The theme starts with the Aether palette generated for the current wallpaper. Th
 4. Preserve separation between pastel blue, gold, and sunset stone.
 5. Use the vertical selected-row marker sparingly.
 6. Do not use the National Park Service arrowhead or imply NPS endorsement.
-7. Keep the embroidered patch wallpaper sorted first as the default; keep the illustrated landscape as the alternate.
+7. Keep the illustrated wallpaper sorted first as the default; keep the embroidered patch as the alternate.
 
 ## Release checklist
 

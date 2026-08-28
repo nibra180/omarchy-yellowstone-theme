@@ -2,29 +2,29 @@
 
 ## The idea
 
-Yellowstone should feel geothermal rather than generically rustic. Volcanic brown forms the base. Pastel blue represents hot-spring water and open sky. Sulfur gold, pale steam, and sunset stone provide warm semantic roles.
+Yellowstone should feel geothermal rather than generically rustic. Volcanic black forms the base. Ember orange and sulfur gold carry active and semantic roles, while warm parchment keeps text readable.
 
-The theme starts with the Aether palette generated for the current wallpaper. The original lavender `blue` and `bright_blue` slots were replaced with pastel blue so editor functions, links, and cool interface accents no longer read as purple.
+The theme uses the current Aether palette generated for the illustrated wallpaper without substitutions.
 
 ## Palette
 
 | Role | Color | Source |
 | --- | --- | --- |
-| Volcanic earth | `#1c150b` | Main background |
-| Deep caldera | `#0e0b06` | Scrims and darkest surfaces |
-| Geothermal blue | `#a9c8df` | Functions, links, and active borders |
-| Spring blue | `#94bbce` | Secondary cool accent |
-| Sulfur | `#d7c78f` | Warnings and border endpoint |
-| Meadow gold | `#d1bc86` | Success and strings |
-| Sunset stone | `#cba183` | Errors and destructive states |
-| Pale steam | `#d4cfb1` | Main text |
+| Volcanic black | `#0f0900` | Main background |
+| Deep caldera | `#080500` | Scrims and darkest surfaces |
+| Ember orange | `#c7692d` | Functions, links, and active borders |
+| Sunset orange | `#cc6b35` | Secondary accent |
+| Sulfur gold | `#bda01a` | Warnings and border endpoint |
+| Meadow ochre | `#b49200` | Success and strings |
+| Sunset red | `#c2612f` | Errors and destructive states |
+| Warm parchment | `#eae5cf` | Main text |
 
 ## Rules
 
-1. Keep large surfaces dark brown. Blue and sulfur should identify activity.
-2. Use the geothermal-blue-to-sulfur gradient for active borders and major shell surfaces only.
-3. Do not reintroduce lavender or violet into the blue syntax slots.
-4. Preserve separation between pastel blue, gold, and sunset stone.
+1. Keep large surfaces near-black and brown. Orange and gold should identify activity.
+2. Use the ember-orange-to-sulfur gradient for active borders and major shell surfaces only.
+3. Keep the ANSI blue, cyan, and magenta roles warm as defined by Aether.
+4. Preserve separation between ember orange, sulfur gold, and sunset red.
 5. Use the vertical selected-row marker sparingly.
 6. Do not use the National Park Service arrowhead or imply NPS endorsement.
 7. Keep the illustrated wallpaper sorted first as the default; keep the embroidered patch as the alternate.

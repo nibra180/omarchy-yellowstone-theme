@@ -1,6 +1,6 @@
 # Yellowstone for Omarchy
 
-A dark Omarchy theme built around volcanic brown, geothermal blue, sulfur gold, pale steam, and sunset stone. Its palette was generated from the included Yellowstone wallpaper with Aether, then adjusted to replace lavender with pastel blue.
+A dark Omarchy theme built around volcanic brown, geothermal blue, sulfur gold, pale steam, and sunset stone. Its palette was generated from the original illustrated Yellowstone wallpaper with Aether, then adjusted to replace lavender with pastel blue. The embroidered patch wallpaper is the default.
 
 ![Yellowstone desktop preview](preview.png)
 
@@ -21,7 +21,7 @@ omarchy theme set yellowstone
 - `colors.toml` defines complete Omarchy semantic and ANSI color roles.
 - `shell.toml` uses geothermal-blue-to-sulfur borders over volcanic brown surfaces.
 - `btop.theme`, `chromium.theme`, and `icons.theme` cover app-specific details.
-- `backgrounds/yellowstone-6880x2880.png` is the single 6880×2880 wallpaper.
+- `backgrounds/` contains two 6880×2880 wallpapers; the embroidered patch is the default.
 - `preview.png` is the 1800×1012 gallery preview.
 - `DESIGN.md` records the palette and visual rules.
 
@@ -29,8 +29,8 @@ Omarchy generates Hyprland, terminal, Neovim, Helix, Pi, Obsidian, keyboard, and
 
 ## Artwork and affiliation
 
-The wallpaper and preview were created by nibra180. The theme is inspired by Yellowstone National Park and is not affiliated with or endorsed by the National Park Service. See [ASSETS.md](ASSETS.md) for attribution details.
+The wallpapers and preview were created by nibra180. The theme is inspired by Yellowstone National Park and is not affiliated with or endorsed by the National Park Service. See [ASSETS.md](ASSETS.md) for attribution details.
 
 ## License
 
-Theme configuration and documentation are licensed under the [MIT License](LICENSE). The wallpaper and preview are licensed under [CC BY 4.0](LICENSES/CC-BY-4.0.txt).
+Theme configuration and documentation are licensed under the [MIT License](LICENSE). The wallpapers and preview are licensed under [CC BY 4.0](LICENSES/CC-BY-4.0.txt).

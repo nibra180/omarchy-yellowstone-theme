@@ -1,0 +1,36 @@
+# Yellowstone for Omarchy
+
+A dark Omarchy theme built around volcanic brown, geothermal blue, sulfur gold, pale steam, and sunset stone. Its palette was generated from the included Yellowstone wallpaper with Aether, then adjusted to replace lavender with pastel blue.
+
+![Yellowstone desktop preview](preview.png)
+
+## Install
+
+```bash
+omarchy theme install https://github.com/nibra180/omarchy-yellowstone-theme
+```
+
+Reapply it later with:
+
+```bash
+omarchy theme set yellowstone
+```
+
+## Included
+
+- `colors.toml` defines complete Omarchy semantic and ANSI color roles.
+- `shell.toml` uses geothermal-blue-to-sulfur borders over volcanic brown surfaces.
+- `btop.theme`, `chromium.theme`, and `icons.theme` cover app-specific details.
+- `backgrounds/yellowstone-6880x2880.png` is the single 6880×2880 wallpaper.
+- `preview.png` is the 1800×1012 gallery preview.
+- `DESIGN.md` records the palette and visual rules.
+
+Omarchy generates Hyprland, terminal, Neovim, Helix, Pi, Obsidian, keyboard, and VS Code files from `colors.toml`. The repository contains no custom Lua or terminal configuration, so Git-installed copies retain the intended design.
+
+## Artwork and affiliation
+
+The wallpaper and preview were created by nibra180. The theme is inspired by Yellowstone National Park and is not affiliated with or endorsed by the National Park Service. See [ASSETS.md](ASSETS.md) for attribution details.
+
+## License
+
+Theme configuration and documentation are licensed under the [MIT License](LICENSE). The wallpaper and preview are licensed under [CC BY 4.0](LICENSES/CC-BY-4.0.txt).

@@ -1,6 +1,6 @@
 # Yellowstone for Omarchy
 
-A dark Omarchy theme built around Aether's current Yellowstone palette: volcanic black, ember orange, sulfur gold, and warm parchment. Aether generated the palette from the illustrated wallpaper. The illustrated wallpaper is the default; the embroidered patch is the alternate.
+A dark Omarchy theme built around volcanic brown, geothermal blue, sulfur gold, pale steam, and sunset stone. Its palette was generated from the original illustrated Yellowstone wallpaper with Aether, then adjusted to replace lavender with pastel blue. The illustrated wallpaper is the default; the embroidered patch is the alternate.
 
 ![Yellowstone desktop preview](preview.png)
 
@@ -29,7 +29,7 @@ omarchy theme set yellowstone
 ## Included
 
 - `colors.toml` defines complete Omarchy semantic and ANSI color roles.
-- `shell.toml` uses ember-orange-to-sulfur borders over volcanic black surfaces.
+- `shell.toml` uses geothermal-blue-to-sulfur borders over volcanic brown surfaces.
 - `btop.theme`, `chromium.theme`, and `icons.theme` cover app-specific details.
 - `backgrounds/` contains two 6880×2880 wallpapers; the illustrated version is the default.
 - `preview.png` is the 1800×1012 gallery preview.

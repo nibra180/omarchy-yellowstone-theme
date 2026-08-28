@@ -4,6 +4,16 @@ A dark Omarchy theme built around volcanic brown, geothermal blue, sulfur gold, 
 
 ![Yellowstone desktop preview](preview.png)
 
+## Wallpapers
+
+### Embroidered patch (default)
+
+![Yellowstone embroidered patch wallpaper](assets/wallpaper-patch-preview.jpg)
+
+### Illustrated alternate
+
+![Yellowstone illustrated wallpaper](assets/wallpaper-illustrated-preview.jpg)
+
 ## Install
 
 ```bash
